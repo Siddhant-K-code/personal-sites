@@ -565,6 +565,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Shruti Appiah http://shrutiappiah.github.io/
 - Shubham Sawant http://moghya.me
 - Shy Ruparel http://ruparel.co
+- Siddhant Khare https://siddhantkhare.myportfolio.com/
 - Simeon Videnov http://simeon.io
 - Simon Tang http://stang.xyz
 - Sophie Wang http://individual.utoronto.ca/channelSW/
